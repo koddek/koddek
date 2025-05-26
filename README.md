@@ -30,10 +30,6 @@ I enjoy learning new paradigms and languages—**Rust** is next on my list!
 
 [![LinkedIn: robinsonsmall](https://img.shields.io/badge/-robinsonsmall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robinsonsmall/)](https://www.linkedin.com/in/robinsonsmall/)
 
-## 📊 GitHub Activity
-
-![koddek's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=koddek&theme=github-compact)
-
 ---
 
 > “Building things is my passion—whether it’s apps, libraries, or a home garden.”
