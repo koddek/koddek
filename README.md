@@ -29,6 +29,7 @@ I enjoy learning new paradigms and languages—**Rust** is next on my list!
 ## 📫 Connect with Me
 
 [![LinkedIn: robinsonsmall](https://img.shields.io/badge/-robinsonsmall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robinsonsmall/)](https://www.linkedin.com/in/robinsonsmall/)
+[Portfolio](https://koddek.github.io/portfolio/)
 
 ---
 
