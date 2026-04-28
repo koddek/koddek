@@ -7,10 +7,10 @@
 I'm a passionate **Software Engineer** who thrives on building apps and libraries that make a difference. My journey started with scripting in AutoIt, and I've since grown to love building with **C#**, especially across platforms using **Blazor** and **.NET MAUI Blazor Hybrid**.  
 I enjoy learning new paradigms and languages—**Rust** is next on my list!
 
-- 💻 **Languages:** C# (favorite!), Java, Kotlin, Python, AutoIt, HTML/CSS/JavaScript
-- 🌐 **Platforms:** Windows, iOS, Android, Web
+- 💻 **Languages:** C# (favorite!), Java, Kotlin, Python, AutoIt, HTML/CSS/JavaScript, Tailwind. (interested in learning Rust, Zig, Go)
+- 🌐 **Platforms:** Windows, iOS, MacOS, Linux, Android, Web
 - ☁️ **Cloud:** Google Firebase
-- 📦 **I love building:** Libraries, reusable components, and tools that empower others
+- 📦 **I love building:** Libraries, reusable components, and tools that empower others. (Currently working on a serializer and database)
 
 ## 🛠️ Favorite Libraries & Tools
 
